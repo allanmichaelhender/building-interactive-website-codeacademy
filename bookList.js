@@ -1,4 +1,4 @@
-export default const books = [
+export const books = [
   {
     title: "The City We Became",
     author: "N. K. Jemisin",

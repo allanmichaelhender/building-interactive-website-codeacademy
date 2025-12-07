@@ -36,3 +36,4 @@ export const renderBooksToDom = (elements) => {
 
   bookListContainer.append(...elements);
 };
+
